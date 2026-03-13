@@ -1,0 +1,100 @@
+start_date,end_date,category,start,stop,miles,purpose
+01/01/2016 21:11,01/01/2016 21:17,Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain
+02/01/2016 01:25,02/01/2016 01:37,Business,Fort Pierce,Fort Pierce,5,null
+02/01/2016 20:25,02/01/2016 20:38,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies
+05/01/2016 17:31,05/01/2016 17:45,Business,Fort Pierce,Fort Pierce,4.7,Meeting
+06/01/2016 14:42,06/01/2016 15:49,Business,Fort Pierce,West Palm Beach,63.7,Customer Visit
+06/01/2016 17:15,06/01/2016 17:19,Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain
+06/01/2016 17:30,06/01/2016 17:35,Business,West Palm Beach,Palm Beach,7.1,Meeting
+07/01/2016 13:27,07/01/2016 13:33,Business,Cary,Cary,0.8,Meeting
+10/01/2016 08:05,10/01/2016 08:25,Business,Cary,Morrisville,8.3,Meeting
+10/01/2016 12:17,10/01/2016 12:44,Business,Jamaica,New York,16.5,Customer Visit
+10/01/2016 15:08,10/01/2016 15:51,Business,New York,Queens,10.8,Meeting
+10/01/2016 18:18,10/01/2016 18:53,Business,Elmhurst,New York,7.5,Meeting
+10/01/2016 19:12,10/01/2016 19:32,Business,Midtown,East Harlem,6.2,Meeting
+11/01/2016 08:55,11/01/2016 09:21,Business,East Harlem,NoMad,6.4,Temporary Site
+11/01/2016 11:56,11/01/2016 12:03,Business,Flatiron District,Midtown,1.6,Errand/Supplies
+11/01/2016 13:32,11/01/2016 13:46,Business,Midtown,Midtown East,1.7,Meal/Entertain
+11/01/2016 14:30,11/01/2016 14:43,Business,Midtown East,Midtown,1.9,Meal/Entertain
+12/01/2016 12:33,12/01/2016 12:49,Business,Midtown,Hudson Square,1.9,Meal/Entertain
+12/01/2016 12:53,12/01/2016 13:09,Business,Hudson Square,Lower Manhattan,4,Meal/Entertain
+12/01/2016 14:42,12/01/2016 14:56,Business,Lower Manhattan,Hudson Square,1.8,Errand/Supplies
+12/01/2016 15:13,12/01/2016 15:28,Business,Hudson Square,Hell's Kitchen,2.4,Customer Visit
+12/01/2016 15:42,12/01/2016 15:54,Business,Hell's Kitchen,Midtown,2,Errand/Supplies
+12/01/2016 16:02,12/01/2016 17:00,Business,New York,Queens County,15.1,Meeting
+13/01/2016 13:54,13/01/2016 14:07,Business,Downtown,Gulfton,11.2,Meeting
+13/01/2016 15:00,13/01/2016 15:28,Business,Gulfton,Downtown,11.8,Meeting
+14/01/2016 16:29,14/01/2016 17:05,Business,Houston,Houston,21.9,Customer Visit
+14/01/2016 21:39,14/01/2016 21:45,Business,Eagan Park,Jamestown Court,3.9,Errand/Supplies
+15/01/2016 00:41,15/01/2016 01:01,Business,Morrisville,Cary,8,Errand/Supplies
+15/01/2016 11:43,15/01/2016 12:03,Business,Cary,Durham,10.4,Meal/Entertain
+15/01/2016 13:26,15/01/2016 13:44,Business,Durham,Cary,10.4,Meal/Entertain
+18/01/2016 14:55,18/01/2016 15:06,Business,Cary,Cary,4.8,Meal/Entertain
+18/01/2016 16:13,18/01/2016 16:24,Business,Farmington Woods,Whitebridge,4.7,Meal/Entertain
+19/01/2016 09:09,19/01/2016 09:23,Business,Whitebridge,Lake Wellingborough,7.2,null
+19/01/2016 10:55,19/01/2016 11:09,Business,Lake Wellingborough,Whitebridge,7.6,Temporary Site
+20/01/2016 10:36,20/01/2016 11:11,Business,Cary,Raleigh,17.1,Meeting
+20/01/2016 11:48,20/01/2016 12:19,Business,Fayetteville Street,Umstead,15.1,Meeting
+20/01/2016 13:25,20/01/2016 14:19,Business,Raleigh,Cary,40.2,Customer Visit
+21/01/2016 14:25,21/01/2016 14:29,Business,Cary,Cary,1.6,Errand/Supplies
+21/01/2016 14:43,21/01/2016 14:51,Business,Cary,Cary,2.4,Meal/Entertain
+21/01/2016 16:01,21/01/2016 16:06,Business,Cary,Cary,1,Meal/Entertain
+26/01/2016 10:41,26/01/2016 10:50,Business,Whitebridge,Hazelwood,2,Meal/Entertain
+26/01/2016 12:33,26/01/2016 12:41,Business,Hazelwood,Whitebridge,2.3,Errand/Supplies
+26/01/2016 16:24,26/01/2016 16:32,Business,Whitebridge,Westpark Place,1.9,Errand/Supplies
+26/01/2016 17:17,26/01/2016 17:22,Business,Cary,Cary,1.4,Errand/Supplies
+26/01/2016 17:27,26/01/2016 17:29,Business,Cary,Cary,0.5,Errand/Supplies
+27/01/2016 09:24,27/01/2016 09:31,Business,Cary,Cary,1.8,Meeting
+27/01/2016 10:19,27/01/2016 10:48,Business,Cary,Raleigh,18.7,Customer Visit
+27/01/2016 12:34,27/01/2016 12:44,Business,Fairmont,Meredith Townes,3.4,Customer Visit
+27/01/2016 14:05,27/01/2016 14:13,Business,Raleigh,Raleigh,2.7,Customer Visit
+27/01/2016 14:46,27/01/2016 15:08,Business,Raleigh,Cary,12.9,Customer Visit
+28/01/2016 12:28,28/01/2016 13:00,Business,Cary,Raleigh,19,Temporary Site
+28/01/2016 15:11,28/01/2016 15:31,Business,Meredith Townes,Leesville Hollow,14.7,Meeting
+28/01/2016 16:21,28/01/2016 16:51,Business,Raleigh,Cary,15.7,Meeting
+29/01/2016 09:31,29/01/2016 09:45,Business,Cary,Cary,4.6,Customer Visit
+29/01/2016 10:56,29/01/2016 11:07,Business,Cary,Cary,5.2,Meeting
+29/01/2016 11:43,29/01/2016 12:03,Business,Cary,Durham,10.4,Meeting
+29/01/2016 13:24,29/01/2016 13:47,Business,Durham,Cary,10.1,Meeting
+29/01/2016 21:21,29/01/2016 21:40,Business,Apex,Cary,5.5,Meal/Entertain
+30/01/2016 18:09,30/01/2016 18:24,Business,Apex,Cary,5.7,Customer Visit
+01/02/2016 10:35,01/02/2016 11:15,Business,Cary,Chapel Hill,19.4,Customer Visit
+01/02/2016 12:10,01/02/2016 12:43,Business,Chapel Hill,Cary,23.3,Customer Visit
+01/02/2016 12:56,01/02/2016 13:07,Business,Northwoods,Whitebridge,3.9,Meal/Entertain
+02/02/2016 13:04,02/02/2016 13:23,Business,Whitebridge,Williamsburg Manor,8.3,Meeting
+04/02/2016 09:37,04/02/2016 10:09,Business,Morrisville,Cary,9.7,Meal/Entertain
+04/02/2016 10:26,04/02/2016 10:32,Business,Cary,Cary,1.6,Meal/Entertain
+04/02/2016 15:59,04/02/2016 16:03,Business,Cary,Cary,1.1,Meal/Entertain
+04/02/2016 16:35,04/02/2016 16:39,Business,Cary,Cary,1.6,Meal/Entertain
+04/02/2016 18:04,04/02/2016 18:31,Business,Whitebridge,Macgregor Downs,9,Meeting
+04/02/2016 20:36,04/02/2016 20:55,Business,Cary,Cary,7.7,Meeting
+05/02/2016 11:47,05/02/2016 12:07,Business,Cary,Durham,10.4,Meeting
+05/02/2016 13:22,05/02/2016 13:41,Business,Durham,Cary,10.4,Meeting
+06/02/2016 16:20,06/02/2016 16:53,Business,Cary,Raleigh,11.4,Between Offices
+07/02/2016 18:03,07/02/2016 18:17,Business,Apex,Cary,5.7,Customer Visit
+07/02/2016 18:39,07/02/2016 18:53,Business,Cary,Morrisville,6.1,Temporary Site
+07/02/2016 20:22,07/02/2016 20:40,Business,Morrisville,Cary,6.1,Meeting
+09/02/2016 10:54,09/02/2016 11:07,Personal,Whitebridge,Northwoods,5.3,null
+09/02/2016 11:43,09/02/2016 11:50,Personal,Northwoods,Tanglewood,3,null
+09/02/2016 13:36,09/02/2016 13:52,Personal,Tanglewood,Preston,5.1,null
+11/02/2016 18:24,11/02/2016 18:46,Business,Raleigh,Morrisville,13.5,Temporary Site
+11/02/2016 20:36,11/02/2016 20:51,Business,Morrisville,Cary,6.1,Temporary Site
+12/02/2016 13:02,12/02/2016 13:36,Business,Raleigh,Cary,18,Meeting
+12/02/2016 14:49,12/02/2016 15:06,Business,Cary,Morrisville,8.4,Meeting
+13/02/2016 14:21,13/02/2016 14:41,Business,Cary,Morrisville,8.9,Meeting
+14/02/2016 14:07,14/02/2016 14:40,Business,East Elmhurst,New York,8.1,Meeting
+14/02/2016 14:46,14/02/2016 15:03,Business,Midtown,Midtown West,2,Meeting
+14/02/2016 16:35,14/02/2016 17:02,Business,New York,Long Island City,13,Meeting
+07/03/2016 15:19,07/03/2016 15:45,Business,Raleigh,Cary,11.9,Between Offices
+08/03/2016 14:38,08/03/2016 14:55,Business,Whitebridge,Waverly Place,7.2,Between Offices
+24/04/2016 21:41,24/04/2016 21:50,Business,Morrisville,Cary,4.2,Between Offices
+27/04/2016 13:30,27/04/2016 13:40,Business,Whitebridge,Burtrose,4.9,Between Offices
+27/04/2016 14:13,27/04/2016 14:25,Business,Burtrose,Whitebridge,4.8,Between Offices
+01/05/2016 17:33,01/05/2016 17:45,Business,Whitebridge,Tanglewood,6.2,Between Offices
+09/05/2016 14:39,09/05/2016 15:06,Business,San Francisco,Palo Alto,20.5,Between Offices
+03/06/2016 22:47,03/06/2016 23:06,Business,Morrisville,Cary,4,Between Offices
+17/07/2016 11:23,17/07/2016 11:50,Personal,Banner Elk,Boone,15.1,Charity ($)
+17/07/2016 12:20,17/07/2016 15:25,Personal,Boone,Cary,180.2,Commute
+21/08/2016 10:00,21/08/2016 10:29,Business,Unknown Location,Unknown Location,7.6,Airport/Travel
+17/12/2016 15:38,17/12/2016 16:12,Business,Unknown Location,Unknown Location,4.8,Airport/Travel
+29/12/2016 13:56,29/12/2016 14:11,Business,Kar?chi,Kar?chi,4.1,Airport/Travel
