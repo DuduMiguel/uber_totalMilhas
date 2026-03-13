@@ -3,6 +3,7 @@
 - Resolvendo uma demanda real de um processo seletivo da Uber utilizando duas abordagens diferentes:
     - Python (Pandas)
     - SQL
+
 O objetivo é demonstrar que o mesmo problema analítico pode ser resolvido utilizando ferramentas diferentes de análise de dados.
 
 
